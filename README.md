@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dedi-edot
-- 👀 I’m interested in Fullstack Javascript Developer and Data Science
-- 🌱 I’m currently learning Fullstack Javascript Developer and Data Science
+- 👀 I’m interested in Fullstack Javascript Developer
+- 🌱 I’m currently learning Fullstack Javascript Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
